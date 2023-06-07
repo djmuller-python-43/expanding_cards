@@ -7,6 +7,7 @@
 }
 
 body {
+  background: url('./images/bg.jpg');
   font-family: 'Muli', sans-serif;
   min-height: 100vh;
   display: flex;
